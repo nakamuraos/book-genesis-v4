@@ -245,7 +245,7 @@ Define the narrative voice with precision:
 
 ```markdown
 **Vocabulary level:** [1-10, where 1 = Hemingway, 10 = Nabokov]
-**Sentence rhythm:** [Short/staccato | Mixed/varied | Long/flowing | Fragmented]
+**Sentence rhythm:** [Describe the default register AND how it shifts with scene pressure — do not pick a single static label. A fixed label applied uniformly produces mechanical prose. Ground in a comp title: e.g. "Goblin Emperor: measured register throughout, length varies only at emotional peaks."]
 **Formality:** [Street | Casual | Conversational | Measured | Formal | Elevated]
 **Humor presence:** [None | Dry/subtle | Frequent | Central]
 **Emotional register:** [Detached | Restrained | Open | Raw]
